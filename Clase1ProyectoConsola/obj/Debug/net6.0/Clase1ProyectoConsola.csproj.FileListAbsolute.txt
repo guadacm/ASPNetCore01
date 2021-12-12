@@ -1,0 +1,15 @@
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\bin\Debug\net6.0\Clase1ProyectoConsola.exe
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\bin\Debug\net6.0\Clase1ProyectoConsola.deps.json
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\bin\Debug\net6.0\Clase1ProyectoConsola.runtimeconfig.json
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\bin\Debug\net6.0\Clase1ProyectoConsola.dll
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\bin\Debug\net6.0\ref\Clase1ProyectoConsola.dll
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\bin\Debug\net6.0\Clase1ProyectoConsola.pdb
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.csproj.AssemblyReference.cache
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.AssemblyInfoInputs.cache
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.AssemblyInfo.cs
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.dll
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\ref\Clase1ProyectoConsola.dll
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.pdb
+C:\Users\Guada\Desarrollo\MetroDev\Clase1ProyectoConsola\obj\Debug\net6.0\Clase1ProyectoConsola.genruntimeconfig.cache
